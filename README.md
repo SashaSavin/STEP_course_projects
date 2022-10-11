@@ -1,22 +1,22 @@
 # STEP python course projects
 
 
-## pygame
+## 🕹️ games
 
 - https://github.com/SashaSavin/STEP_panzer_game
 
 - https://github.com/SashaSavin/STEP_ride_game
 
-## automatisation 
+## ⚙️ automatisation 
 
 - https://github.com/SashaSavin/STEP_keylogger
 
-## bot's
+## 🤖 bot's
 
 - https://github.com/SashaSavin/STEP_TG_bots
 
 
-## django
+## 🖨️ django
 
 - https://github.com/SashaSavin/STEP_Django-course-blog
 
