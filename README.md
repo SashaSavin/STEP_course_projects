@@ -7,7 +7,7 @@
 
 - https://github.com/SashaSavin/STEP_ride_game
 
-## ⚙️ automatisation 
+## ⚙️ automation
 
 - https://github.com/SashaSavin/STEP_keylogger
 
